@@ -86,7 +86,7 @@ public class BenificieryDetailsController {
 	public Map<String, Object> benificieryDetailsByBenificieryId(
 			 ) {
 		
-			return Map.of("Code","200");
+			return Map.of("Code","200","Status","Success");
 		
 	}
 
