@@ -86,8 +86,7 @@ public class BenificieryDetailsController {
 	public Map<String, Object> benificieryDetailsByBenificieryId(
 			 ) {
 		
-		System.out.println("hey");
-			return Map.of();
+			return Map.of("Code","200");
 		
 	}
 
